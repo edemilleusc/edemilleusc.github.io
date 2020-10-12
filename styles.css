@@ -1,22 +1,27 @@
 body {
-    background:lightskyblue;
+    background:#F2EADF;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-assignment{
-    background: cornflowerblue;
-    display:flex;
+.assignment{
+    /* display:flex; */
     padding:10px;
     margin: 10px;
     
 }
 
 .assignment img{
-    background: cornflowerblue;
+    background: #FEB624;
     width: 200px;
     padding:10px;
 }
 
 h1 {
-    color: black;
+    color: #337E99;
+
+}
+
+a {
+    text-decoration: none;
+    color: #FD7400;
 }
