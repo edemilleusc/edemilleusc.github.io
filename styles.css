@@ -7,6 +7,8 @@ body {
     /* display:flex; */
     padding:10px;
     margin: 10px;
+
+    border-radius: 5px;
     
 }
 
@@ -14,6 +16,9 @@ body {
     background: #FEB624;
     width: 200px;
     padding:10px;
+
+    border-radius: 7px;
+    box-shadow: 5px 10px #401201;
 }
 
 h1 {
@@ -24,4 +29,8 @@ h1 {
 a {
     text-decoration: none;
     color: #FD7400;
+}
+
+.assignment a:hover {
+    color: #F24405;
 }
